@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
