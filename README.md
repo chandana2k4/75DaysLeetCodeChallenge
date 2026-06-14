@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
