@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
