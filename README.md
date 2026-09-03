@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/2109-adding-spaces-to-a-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/2109-adding-spaces-to-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/2109-adding-spaces-to-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -287,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Simulation
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/2109-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
