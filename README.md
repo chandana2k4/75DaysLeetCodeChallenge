@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/2109-adding-spaces-to-a-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/2109-adding-spaces-to-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
